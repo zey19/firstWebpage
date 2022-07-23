@@ -1,0 +1,17 @@
+#player{
+    margin: 0 auto;
+    display: block;
+
+}
+
+body{
+    font-family: 'Copperplate Gothic Light';
+    text-align: center;
+    background-color:lightpink;
+    
+}
+
+hr{
+    size: "50";
+}
+
